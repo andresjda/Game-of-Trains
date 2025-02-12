@@ -1,0 +1,5 @@
+In Game of Trains, each player is in charge of their line of trains. At the beginning of the game, the train cars in the player's train line — each with their own number — are sorted in descending order. The aim of the game is to be the first one to rearrange your train line so that the cards are in ascending order. Each card has a train car with a number and also a special power depicted on it.
+
+On a turn, the player can do one of two things: draw a card from the draw pile and replace one of the cards in their train line with the newly drawn card, or take a face-up card from the middle of the table and use it as a special power. Cards that are replaced from a player's train line are put in the middle to be used as special powers, and the cards that are used as special powers are discarded. Special powers include such actions as swapping two cards, moving a card, destroying everyone's cards, and so on. The players keep taking turns until one has their train line in ascending order and wins.
+
+This game is a console version of this game that allowes for either two players to go against each other or you can play alone with a computer opponent!
